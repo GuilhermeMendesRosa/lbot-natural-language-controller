@@ -1,1229 +1,1536 @@
 [
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 50 centímetros para frente.",
     "output": "50F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá 20 centímetros para a direita.",
     "output": "20R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 30 centímetros para trás.",
     "output": "30B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 40 centímetros para a esquerda.",
     "output": "40L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 100 centímetros e vire à direita 25 centímetros.",
     "output": "100F;25R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Recue 60 centímetros e depois vá 15 centímetros para a esquerda.",
     "output": "60B;15L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 75 centímetros para frente e então 30 centímetros para a direita.",
     "output": "75F;30R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 90 centímetros para frente e depois 20 centímetros para trás.",
     "output": "90F;20B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 35 centímetros para a direita, depois 50 centímetros para frente.",
     "output": "35R;50F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 25 centímetros e depois recue 10 centímetros.",
     "output": "25F;10B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 80 centímetros para trás e depois 45 centímetros para a direita.",
     "output": "80B;45R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 55 centímetros para a esquerda e então avance 70 centímetros.",
     "output": "55L;70F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Caminhe 120 centímetros para frente, depois recue 50 centímetros.",
     "output": "120F;50B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 90 centímetros e depois vire à direita 30 centímetros.",
     "output": "90B;30R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 15 centímetros para a esquerda e avance 25 centímetros.",
     "output": "15L;25F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Avance 200 centímetros e depois vire à esquerda 40 centímetros.",
     "output": "200F;40L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 70 centímetros para frente e depois 90 centímetros para trás.",
     "output": "70F;90B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Desloque-se 45 centímetros para a direita e depois 60 centímetros para a esquerda.",
     "output": "45R;60L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Vá 100 centímetros para frente e depois recue 30 centímetros.",
     "output": "100F;30B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 25 centímetros para a esquerda e depois vá 55 centímetros para a direita.",
     "output": "25L;55R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 80 centímetros para frente e depois recue 120 centímetros.",
     "output": "80F;120B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá 60 centímetros para trás e depois mova-se 35 centímetros para a esquerda.",
     "output": "60B;35L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Avance 110 centímetros e então vire à direita 75 centímetros.",
     "output": "110F;75R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 95 centímetros para frente e então 50 centímetros para trás.",
     "output": "95F;50B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Caminhe 40 centímetros para a esquerda e depois 70 centímetros para a direita.",
     "output": "40L;70R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 90 centímetros e depois recue 25 centímetros.",
     "output": "90F;25B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 120 centímetros para trás e depois 100 centímetros para frente.",
     "output": "120B;100F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 65 centímetros para a esquerda e depois 80 centímetros para frente.",
     "output": "65L;80F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 75 centímetros para frente e depois recue 30 centímetros.",
     "output": "75F;30B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 45 centímetros e depois vire à direita 20 centímetros.",
     "output": "45B;20R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 50 centímetros para a esquerda e então avance 90 centímetros.",
     "output": "50L;90F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 85 centímetros para frente e então recue 40 centímetros.",
     "output": "85F;40B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 55 centímetros para a direita e depois 70 centímetros para a esquerda.",
     "output": "55R;70L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 120 centímetros e depois recue 60 centímetros.",
     "output": "120F;60B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 30 centímetros para trás e depois 40 centímetros para frente.",
     "output": "30B;40F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 95 centímetros para a esquerda e depois 100 centímetros para frente.",
     "output": "95L;100F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 85 centímetros para frente e depois recue 50 centímetros.",
     "output": "85F;50B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá 70 centímetros para trás e depois mova-se 25 centímetros para a esquerda.",
     "output": "70B;25L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Avance 60 centímetros e então vire à direita 35 centímetros.",
     "output": "60F;35R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 110 centímetros para frente e então 40 centímetros para trás.",
     "output": "110F;40B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Caminhe 75 centímetros para a esquerda e depois 90 centímetros para a direita.",
     "output": "75L;90R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 50 centímetros e depois recue 20 centímetros.",
     "output": "50F;20B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 100 centímetros para trás e depois 120 centímetros para frente.",
     "output": "100B;120F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 55 centímetros para a esquerda e depois 75 centímetros para frente.",
     "output": "55L;75F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 45 centímetros para frente.",
     "output": "45F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá 35 centímetros para a direita.",
     "output": "35R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 20 centímetros para trás.",
     "output": "20B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 60 centímetros para a esquerda.",
     "output": "60L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 90 centímetros e vire à direita 30 centímetros.",
     "output": "90F;30R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Recue 50 centímetros e depois vá 25 centímetros para a esquerda.",
     "output": "50B;25L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 80 centímetros para frente e então 40 centímetros para a direita.",
     "output": "80F;40R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 70 centímetros para frente e depois 15 centímetros para trás.",
     "output": "70F;15B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 45 centímetros para a direita, depois 30 centímetros para frente.",
     "output": "45R;30F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 20 centímetros e depois recue 10 centímetros.",
     "output": "20F;10B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 60 centímetros para trás e depois 35 centímetros para a direita.",
     "output": "60B;35R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 75 centímetros para a esquerda e então avance 55 centímetros.",
     "output": "75L;55F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Caminhe 110 centímetros para frente, depois recue 45 centímetros.",
     "output": "110F;45B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 85 centímetros e depois vire à direita 25 centímetros.",
     "output": "85B;25R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 10 centímetros para a esquerda e avance 30 centímetros.",
     "output": "10L;30F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Avance 150 centímetros e depois vire à esquerda 50 centímetros.",
     "output": "150F;50L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 40 centímetros para frente e depois 60 centímetros para trás.",
     "output": "40F;60B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Desloque-se 25 centímetros para a direita e depois 55 centímetros para a esquerda.",
     "output": "25R;55L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Vá 90 centímetros para frente e depois recue 20 centímetros.",
     "output": "90F;20B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 30 centímetros para a esquerda e depois vá 45 centímetros para a direita.",
     "output": "30L;45R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 60 centímetros para frente e depois recue 95 centímetros.",
     "output": "60F;95B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá 70 centímetros para trás e depois mova-se 20 centímetros para a esquerda.",
     "output": "70B;20L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Avance 125 centímetros e então vire à direita 85 centímetros.",
     "output": "125F;85R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 80 centímetros para frente e então 35 centímetros para trás.",
     "output": "80F;35B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Caminhe 50 centímetros para a esquerda e depois 65 centímetros para a direita.",
     "output": "50L;65R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 130 centímetros e depois recue 75 centímetros.",
     "output": "130F;75B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 20 centímetros para trás e depois 55 centímetros para frente.",
     "output": "20B;55F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 45 centímetros para a esquerda e depois 70 centímetros para frente.",
     "output": "45L;70F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 100 centímetros para frente e depois recue 45 centímetros.",
     "output": "100F;45B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 35 centímetros e depois vire à direita 30 centímetros.",
     "output": "35B;30R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 65 centímetros para a esquerda e então avance 95 centímetros.",
     "output": "65L;95F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 95 centímetros para frente e então recue 40 centímetros.",
     "output": "95F;40B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 60 centímetros para a direita e depois 55 centímetros para a esquerda.",
     "output": "60R;55L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 110 centímetros e depois recue 50 centímetros.",
     "output": "110F;50B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 25 centímetros para trás e depois 30 centímetros para frente.",
     "output": "25B;30F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 80 centímetros para a esquerda e depois 120 centímetros para frente.",
     "output": "80L;120F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 95 centímetros para frente e depois recue 55 centímetros.",
     "output": "95F;55B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá 75 centímetros para trás e depois mova-se 30 centímetros para a esquerda.",
     "output": "75B;30L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Avance 70 centímetros e então vire à direita 40 centímetros.",
     "output": "70F;40R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 100 centímetros para frente e então 50 centímetros para trás.",
     "output": "100F;50B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Caminhe 85 centímetros para a esquerda e depois 110 centímetros para a direita.",
     "output": "85L;110R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 60 centímetros e depois recue 35 centímetros.",
     "output": "60F;35B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 115 centímetros para trás e depois 130 centímetros para frente.",
     "output": "115B;130F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 40 centímetros para a esquerda e depois 75 centímetros para frente.",
     "output": "40L;75F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 15 centímetros para frente.",
     "output": "15F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 25 centímetros para trás.",
     "output": "25B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Vá 40 centímetros para a direita.",
     "output": "40R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 55 centímetros para a esquerda.",
     "output": "55L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 20 centímetros e vire à direita 35 centímetros.",
     "output": "20F;35R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Recue 45 centímetros e depois vá 60 centímetros para a esquerda.",
     "output": "45B;60L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 30 centímetros para frente e então 15 centímetros para a direita.",
     "output": "30F;15R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 50 centímetros para frente e depois 25 centímetros para trás.",
     "output": "50F;25B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 70 centímetros para a direita, depois 40 centímetros para frente.",
     "output": "70R;40F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 90 centímetros e depois recue 55 centímetros.",
     "output": "90F;55B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 35 centímetros para trás e depois 45 centímetros para a direita.",
     "output": "35B;45R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 65 centímetros para a esquerda e então avance 20 centímetros.",
     "output": "65L;20F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Caminhe 120 centímetros para frente, depois recue 80 centímetros.",
     "output": "120F;80B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 95 centímetros e depois vire à direita 50 centímetros.",
     "output": "95B;50R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 75 centímetros para a esquerda e avance 35 centímetros.",
     "output": "75L;35F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Avance 200 centímetros e depois vire à esquerda 90 centímetros.",
     "output": "200F;90L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 110 centímetros para frente e depois 70 centímetros para trás.",
     "output": "110F;70B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Desloque-se 50 centímetros para a direita e depois 85 centímetros para a esquerda.",
     "output": "50R;85L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Vá 40 centímetros para frente e depois recue 30 centímetros.",
     "output": "40F;30B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 15 centímetros para a esquerda e depois vá 20 centímetros para a direita.",
     "output": "15L;20R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 30 centímetros para frente e depois recue 65 centímetros.",
     "output": "30F;65B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá 90 centímetros para trás e depois mova-se 25 centímetros para a esquerda.",
     "output": "90B;25L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Avance 140 centímetros e então vire à direita 75 centímetros.",
     "output": "140F;75R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 100 centímetros para frente e então 50 centímetros para trás.",
     "output": "100F;50B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Caminhe 70 centímetros para a esquerda e depois 55 centímetros para a direita.",
     "output": "70L;55R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 200 centímetros e depois recue 90 centímetros.",
     "output": "200F;90B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 35 centímetros para trás e depois 50 centímetros para frente.",
     "output": "35B;50F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 80 centímetros para a esquerda e depois 110 centímetros para frente.",
     "output": "80L;110F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 150 centímetros para frente e depois recue 65 centímetros.",
     "output": "150F;65B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 50 centímetros e depois vire à direita 40 centímetros.",
     "output": "50B;40R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 90 centímetros para a esquerda e então avance 130 centímetros.",
     "output": "90L;130F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 180 centímetros para frente e então recue 90 centímetros.",
     "output": "180F;90B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 50 centímetros para a direita e depois 75 centímetros para a esquerda.",
     "output": "50R;75L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 95 centímetros e depois recue 40 centímetros.",
     "output": "95F;40B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 70 centímetros para trás e depois 90 centímetros para frente.",
     "output": "70B;90F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 30 centímetros para a esquerda e depois 100 centímetros para frente.",
     "output": "30L;100F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 85 centímetros para frente e depois recue 50 centímetros.",
     "output": "85F;50B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá 110 centímetros para trás e depois mova-se 60 centímetros para a esquerda.",
     "output": "110B;60L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Avance 60 centímetros e então vire à direita 35 centímetros.",
     "output": "60F;35R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 105 centímetros para frente e então 70 centímetros para trás.",
     "output": "105F;70B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Caminhe 95 centímetros para a esquerda e depois 115 centímetros para a direita.",
     "output": "95L;115R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 70 centímetros e depois recue 35 centímetros.",
     "output": "70F;35B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Desloque-se 120 centímetros para trás e depois 140 centímetros para frente.",
     "output": "120B;140F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 40 centímetros para a esquerda e depois 85 centímetros para frente.",
     "output": "40L;85F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Vá 25 centímetros para frente e depois vire à direita 10 centímetros.",
     "output": "25F;10R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Caminhe 50 centímetros para a esquerda e depois recue 20 centímetros.",
     "output": "50L;20B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 90 centímetros para frente e então 45 centímetros para a direita.",
     "output": "90F;45R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Desloque-se 70 centímetros para trás e depois avance 30 centímetros.",
     "output": "70B;30F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 60 centímetros para frente e então vire à esquerda 40 centímetros.",
     "output": "60F;40L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 85 centímetros e depois 55 centímetros para a direita.",
     "output": "85B;55R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 120 centímetros para frente e então recue 75 centímetros.",
     "output": "120F;75B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 95 centímetros para a esquerda e depois 130 centímetros para frente.",
     "output": "95L;130F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 150 centímetros e depois recue 85 centímetros.",
     "output": "150F;85B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 65 centímetros e depois vire à esquerda 35 centímetros.",
     "output": "65B;35L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 80 centímetros para frente e depois 50 centímetros para trás.",
     "output": "80F;50B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 200 centímetros para frente e depois vire à direita 100 centímetros.",
     "output": "200F;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 55 centímetros para a esquerda e depois avance 110 centímetros.",
     "output": "55L;110F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 75 centímetros para frente e então recue 60 centímetros.",
     "output": "75F;60B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Vá para trás 125 centímetros e depois 90 centímetros para a direita.",
     "output": "125B;90R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 140 centímetros para a esquerda e depois 160 centímetros para frente.",
     "output": "140L;160F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 170 centímetros e depois recue 95 centímetros.",
     "output": "170F;95B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 30 centímetros para frente e então 70 centímetros para a esquerda.",
     "output": "30F;70L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Vá para trás 110 centímetros e depois 80 centímetros para a direita.",
     "output": "110B;80R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 95 centímetros para a esquerda e depois 140 centímetros para frente.",
     "output": "95L;140F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 130 centímetros para frente e então recue 85 centímetros.",
     "output": "130F;85B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 45 centímetros e depois vire à direita 50 centímetros.",
     "output": "45B;50R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 75 centímetros para frente e então recue 55 centímetros.",
     "output": "75F;55B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 180 centímetros para frente e depois vire à esquerda 90 centímetros.",
     "output": "180F;90L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 95 centímetros e então recue 60 centímetros.",
     "output": "95F;60B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 115 centímetros e depois 100 centímetros para a direita.",
     "output": "115B;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 50 centímetros para a esquerda e então avance 80 centímetros.",
     "output": "50L;80F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 160 centímetros para frente e depois recue 85 centímetros.",
     "output": "160F;85B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 145 centímetros para trás e depois vire à direita 75 centímetros.",
     "output": "145B;75R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 200 centímetros e depois recue 100 centímetros.",
     "output": "200F;100B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 85 centímetros para a esquerda e então 120 centímetros para frente.",
     "output": "85L;120F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 110 centímetros para frente e então recue 95 centímetros.",
     "output": "110F;95B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 170 centímetros e depois vire à esquerda 50 centímetros.",
     "output": "170F;50L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 200 centímetros e então 90 centímetros para a direita.",
     "output": "200B;90R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 95 centímetros para a esquerda e então 140 centímetros para frente.",
     "output": "95L;140F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 125 centímetros para frente e então recue 60 centímetros.",
     "output": "125F;60B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 75 centímetros para trás e depois vire à direita 40 centímetros.",
     "output": "75B;40R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 145 centímetros e depois recue 85 centímetros.",
     "output": "145F;85B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 50 centímetros para a esquerda e então avance 90 centímetros.",
     "output": "50L;90F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 190 centímetros para frente e então recue 100 centímetros.",
     "output": "190F;100B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 110 centímetros para trás e depois vire à esquerda 55 centímetros.",
     "output": "110B;55L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 200 centímetros e depois recue 115 centímetros.",
     "output": "200F;115B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 85 centímetros para a direita e então 130 centímetros para frente.",
     "output": "85R;130F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Mova-se 120 centímetros para frente e depois vire à direita 60 centímetros.",
     "output": "120F;60R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Caminhe 90 centímetros para a esquerda e depois 75 centímetros para frente.",
     "output": "90L;75F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Vá para frente 150 centímetros e depois vire à esquerda 90 centímetros.",
     "output": "150F;90L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 200 centímetros para trás e depois 50 centímetros para frente.",
     "output": "200B;50F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 130 centímetros para a esquerda e depois 100 centímetros para trás.",
     "output": "130L;100B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 180 centímetros para frente e depois vire à direita 80 centímetros.",
     "output": "180F;80R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 65 centímetros para a direita e depois 45 centímetros para trás.",
     "output": "65R;45B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Vá para frente 100 centímetros e depois vire à esquerda 45 centímetros.",
     "output": "100F;45L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 80 centímetros e depois vire à direita 55 centímetros.",
     "output": "80F;55R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 150 centímetros para frente e depois 25 centímetros para a direita.",
     "output": "150F;25R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Ande 95 centímetros para trás e depois 60 centímetros para a esquerda.",
     "output": "95B;60L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 50 centímetros para frente e depois 45 centímetros para a direita.",
     "output": "50F;45R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 170 centímetros e depois vire à esquerda 90 centímetros.",
     "output": "170F;90L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para trás 200 centímetros e depois vire à direita 100 centímetros.",
     "output": "200B;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 110 centímetros para frente e depois 120 centímetros para trás.",
     "output": "110F;120B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 100 centímetros para a direita e depois 80 centímetros para trás.",
     "output": "100R;80B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 200 centímetros para frente e depois vire à esquerda 45 centímetros.",
     "output": "200F;45L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 30 centímetros para frente e depois vire à direita 90 centímetros.",
     "output": "30F;90R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 75 centímetros para trás e depois 90 centímetros para a esquerda.",
     "output": "75B;90L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Vá para frente 85 centímetros e depois vire à direita 70 centímetros.",
     "output": "85F;70R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 95 centímetros e depois vire à esquerda 120 centímetros.",
     "output": "95F;120L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 50 centímetros para a esquerda e depois 80 centímetros para frente.",
     "output": "50L;80F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Ande 150 centímetros para frente e depois 200 centímetros para trás.",
     "output": "150F;200B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 90 centímetros para frente e depois 60 centímetros para a direita.",
     "output": "90F;60R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 110 centímetros para trás e depois 45 centímetros para a esquerda.",
     "output": "110B;45L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 180 centímetros e depois vire à direita 40 centímetros.",
     "output": "180F;40R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 100 centímetros para trás e depois 50 centímetros para a esquerda.",
     "output": "100B;50L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 125 centímetros para a direita e depois 75 centímetros para trás.",
     "output": "125R;75B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 50 centímetros para frente e depois vire à esquerda 40 centímetros.",
     "output": "50F;40L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 180 centímetros para trás e depois 90 centímetros para a direita.",
     "output": "180B;90R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 60 centímetros para frente e depois 30 centímetros para a direita.",
     "output": "60F;30R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Vá para frente 130 centímetros e depois vire à esquerda 60 centímetros.",
     "output": "130F;60L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 50 centímetros e depois 40 centímetros para a esquerda.",
     "output": "50F;40L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 70 centímetros para frente e depois vire à direita 30 centímetros.",
     "output": "70F;30R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 150 centímetros para trás e depois 50 centímetros para a direita.",
     "output": "150B;50R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 60 centímetros para frente e depois 110 centímetros para a esquerda.",
     "output": "60F;110L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 50 centímetros para a esquerda e depois 40 centímetros para frente.",
     "output": "50L;40F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 120 centímetros e depois 100 centímetros para a esquerda.",
     "output": "120F;100L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 40 centímetros para trás e depois 80 centímetros para a esquerda.",
     "output": "40B;80L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 120 centímetros para frente e depois vire à esquerda 90 centímetros.",
     "output": "120F;90L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Avance 70 centímetros e depois vire à direita 60 centímetros.",
     "output": "70F;60R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 85 centímetros para trás e depois 70 centímetros para a esquerda.",
     "output": "85B;70L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 200 centímetros para frente e depois vire à direita 150 centímetros.",
     "output": "200F;150R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 75 centímetros para frente e depois 125 centímetros para a direita.",
     "output": "75F;125R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Mova-se 2 metros para frente e depois 1 metro para a direita.",
     "output": "200F;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Caminhe 3 metros para trás e depois 1,5 metros para a esquerda.",
     "output": "300B;150L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Vá para frente 4 metros e depois vire à direita 2 metros.",
     "output": "400F;200R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 1,2 metros para a direita e depois 1 metro para frente.",
     "output": "120R;100F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 2 metros para frente e depois vire à esquerda 1 metro.",
     "output": "200F;100L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 0,5 metros para a esquerda e depois 2 metros para trás.",
     "output": "50L;200B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 3 metros para frente e depois 0,5 metros para a direita.",
     "output": "300F;50R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Vá para frente 1 metro e depois vire à esquerda 0,8 metros.",
     "output": "100F;80L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Ande 2,5 metros para a direita e depois 3 metros para frente.",
     "output": "250R;300F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 1 metro para a esquerda e depois 0,5 metros para trás.",
     "output": "100L;50B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 0,7 metros para frente e depois 2 metros para a direita.",
     "output": "70F;200R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 1,5 metros para frente e depois vire à esquerda 0,6 metros.",
     "output": "150F;60L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 0,8 metros para trás e depois 1,2 metros para a direita.",
     "output": "80B;120R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Ande 2 metros para frente e depois 0,5 metros para a esquerda.",
     "output": "200F;50L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Vá para frente 3 metros e depois vire à esquerda 2 metros.",
     "output": "300F;200L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 4 metros para frente e depois vire à direita 1,5 metros.",
     "output": "400F;150R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 2 metros para a esquerda e depois 1 metro para trás.",
     "output": "200L;100B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 1,5 metros para frente e depois 2 metros para a esquerda.",
     "output": "150F;200L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 0,6 metros para a direita e depois 3 metros para frente.",
     "output": "60R;300F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Vá para frente 5 metros e depois vire à esquerda 2 metros.",
     "output": "500F;200L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 2 metros para trás e depois 1,8 metros para a direita.",
     "output": "200B;180R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Ande 0,9 metros para a esquerda e depois 1,5 metros para frente.",
     "output": "90L;150F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 3 metros para frente e depois 1 metro para a direita.",
     "output": "300F;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 2 metros para trás e depois vire à esquerda 0,8 metros.",
     "output": "200B;80L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Ande 1,3 metros para frente e depois 1 metro para a direita.",
     "output": "130F;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 4 metros para trás e depois 2 metros para a esquerda.",
     "output": "400B;200L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 2 metros para frente e depois 3 metros para a direita.",
     "output": "200F;300R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 0,5 metros para frente e depois vire à direita 1 metro.",
     "output": "50F;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 1,5 metros para frente e depois 2 metros para a direita.",
     "output": "150F;200R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Ande 3 metros para trás e depois 1,2 metros para a esquerda.",
     "output": "300B;120L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Vá para frente 4 metros e depois vire à direita 3 metros.",
     "output": "400F;300R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 1 metro para frente e depois 0,7 metros para a esquerda.",
     "output": "100F;70L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 2 metros para a direita e depois 1,5 metros para trás.",
     "output": "200R;150B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 0,8 metros para frente e depois 2 metros para a direita.",
     "output": "80F;200R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 2 metros para frente e depois 3 metros para a esquerda.",
     "output": "200F;300L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 0,5 metros para a direita e depois 1,5 metros para trás.",
     "output": "50R;150B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Vá para frente 2 metros e depois vire à direita 0,5 metros.",
     "output": "200F;50R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 1 metro para a esquerda e depois 2,5 metros para frente.",
     "output": "100L;250F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 3 metros para frente e depois 1,2 metros para a direita.",
     "output": "300F;120R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 1,8 metros para trás e depois 1 metro para a direita.",
     "output": "180B;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 0,7 metros para a direita e depois 1 metro para frente.",
     "output": "70R;100F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 1,2 metros para frente e depois 0,9 metros para a esquerda.",
     "output": "120F;90L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Mova-se 1,6 metros para frente e depois 0,9 metros para a direita.",
     "output": "160F;90R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Caminhe 2,3 metros para trás e depois 1 metro para a esquerda.",
     "output": "230B;100L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Ande 0,8 metros para frente e depois 2 metros para a direita.",
     "output": "80F;200R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 2 metros para a esquerda e depois 1,5 metros para frente.",
     "output": "200L;150F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 1 metro para a direita e depois vire à esquerda 2 metros.",
     "output": "100R;200L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 0,5 metros para frente e depois 3 metros para a direita.",
     "output": "50F;300R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Ande 2,5 metros para frente e depois 0,8 metros para a esquerda.",
     "output": "250F;80L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Vá para frente 1,7 metros e depois vire à direita 1 metro.",
     "output": "170F;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 3 metros para frente e depois vire à esquerda 2 metros.",
     "output": "300F;200L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Ande 1,3 metros para a direita e depois 2 metros para trás.",
     "output": "130R;200B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 0,9 metros para a esquerda e depois 1 metro para frente.",
     "output": "90L;100F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 1 metro para trás e depois 0,6 metros para a direita.",
     "output": "100B;60R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 2 metros para frente e depois vire à esquerda 1,4 metros.",
     "output": "200F;140L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 2,5 metros para trás e depois 1 metro para a direita.",
     "output": "250B;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Ande 1,5 metros para a esquerda e depois 0,7 metros para frente.",
     "output": "150L;70F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 0,6 metros para a direita e depois 2 metros para frente.",
     "output": "60R;200F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 1,8 metros para frente e depois vire à esquerda 1,5 metros.",
     "output": "180F;150L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Ande 0,9 metros para trás e depois 2,3 metros para a direita.",
     "output": "90B;230R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 3 metros para frente e depois 1,2 metros para a esquerda.",
     "output": "300F;120L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 1,2 metros para trás e depois 1 metro para a direita.",
     "output": "120B;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 4 metros para frente e depois vire à esquerda 0,8 metros.",
     "output": "400F;80L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 0,8 metros para a direita e depois 2 metros para trás.",
     "output": "80R;200B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Ande 3,5 metros para frente e depois 0,9 metros para a esquerda.",
     "output": "350F;90L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Vá para frente 2 metros e depois vire à direita 1,5 metros.",
     "output": "200F;150R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 1,7 metros para frente e depois 2 metros para a esquerda.",
     "output": "170F;200L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 2 metros para trás e depois 1,5 metros para a direita.",
     "output": "200B;150R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Caminhe 1,3 metros para frente e depois 1 metro para a direita.",
     "output": "130F;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Mova-se 2 metros para a esquerda e depois 1,8 metros para frente.",
     "output": "200L;180F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 3 metros para frente e depois vire à direita 2 metros.",
     "output": "300F;200R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Ande 0,5 metros para a esquerda e depois 2 metros para trás.",
     "output": "50L;200B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 2 metros para frente e depois 3 metros para a direita.",
     "output": "200F;300R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 0,6 metros para frente e depois 1,5 metros para a esquerda.",
     "output": "60F;150L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 1,2 metros para frente e depois vire à direita 2 metros.",
     "output": "120F;200R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 0,5 metros para trás e depois 1 metro para a direita.",
     "output": "50B;100R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Ande 1,8 metros para a esquerda e depois 1 metro para frente.",
     "output": "180L;100F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Vá para frente 3 metros e depois vire à esquerda 1,5 metros.",
     "output": "300F;150L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Ande 2 metros para frente e depois 2 metros para a direita.",
     "output": "200F;200R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Ande 0,7 metros para a esquerda e depois 2 metros para frente.",
     "output": "70L;200F;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 1,4 metros para trás e depois 2 metros para a esquerda.",
     "output": "140B;200L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Caminhe 1 metro para a direita e depois 3 metros para trás.",
     "output": "100R;300B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Siga 3 metros para frente e depois vire à esquerda 1 metro.",
     "output": "300F;100L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Ande 1,5 metros para a direita e depois 1 metro para trás.",
     "output": "150R;100B;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Gere a instrução em LBot Movement Language: Mova-se 2,2 metros para frente e depois 1,4 metros para a esquerda.",
     "output": "220F;140L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta o seguinte comando para LBot Movement Language: Ande 1 metro para a esquerda e depois 0,8 metros para a direita.",
     "output": "100L;80R;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Converta para LBot Movement Language: Vá para frente 3 metros e depois vire à esquerda 2 metros.",
     "output": "300F;200L;"
   },
   {
+    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 1,2 metros para trás e depois 2 metros para a direita.",
     "output": "120B;200R;"
   }
