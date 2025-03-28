@@ -1526,11 +1526,6 @@
   },
   {
     "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
-    "input": "Converta para LBot Movement Language: Vá para frente 3 metros e depois vire à esquerda 2 metros.",
-    "output": "300F;200L;"
-  },
-  {
-    "instruction": "Eu preciso que você atua como um tradutor de linguagem natural para LBot Movement Language, só responda a conversão do texto que o usuário te passou para LBot Movement Language.",
     "input": "Transforme em LBot Movement Language: Mova-se 1,2 metros para trás e depois 2 metros para a direita.",
     "output": "120B;200R;"
   }
